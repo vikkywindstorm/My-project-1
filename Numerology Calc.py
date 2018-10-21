@@ -6,7 +6,7 @@ alpha = {'A':1, 'I':1, 'J':1, 'Q':1, 'Y':1,' ':0,
          'U':6, 'V':6, 'W':6,
          'O':7, 'Z':7,
          'P':8, 'F':8}
-#Dictionary contains which contains the numbers according to each and every alphabets
+#Dictionary contains the numbers according to each and every alphabets
 Name = input(str("ENTER YOUR NAME IN CAPS:")) # Enter your name
 total=0
 for i in Name:              #Splitting the alphabets in your name and getting the values for it
